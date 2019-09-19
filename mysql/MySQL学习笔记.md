@@ -1,11 +1,11 @@
 # MySQL学习笔记
 
 ## MySQL可视化 Navicat 12破解方法
-```
-1. [下载对应版本] (https://www.navicat.com.cn/download/navicat-premium.html)
-2. 中文版README-如何使用这个注册机： https://github.com/DoubleLabyrinth/navicat-keygen/
-3. 学习资源： https://www.bilibili.com/video/av39807944/?p=1
-```
+
+1. [下载对应版本](https://www.navicat.com.cn/download/navicat-premium)
+2. [中文版README - 如何使用这个注册机](https://github.com/DoubleLabyrinth/navicat-keygen)
+3. [学习资源](https://www.bilibili.com/video/av39807944/?p=1)
+
 
 ## 登录和退出MySQL服务器
 
